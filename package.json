@@ -1,0 +1,17 @@
+{
+  "name": "serverbot",
+  "version": "1.0.0",
+  "description": "Discord bot for simple interaction with a Minecraft server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "public-ip": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "ElCalabeza",
+  "license": "ISC"
+}
