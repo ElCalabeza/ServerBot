@@ -27,7 +27,7 @@
 
 - Go to the folder of the bot and run `npm start`.
 - Once it says "Ready!" you can use the following commands in your server or dm the bot directly:
-  - `!ip` Ask for the server's public ip address.
+  - `!ip` Asks for the server's public ip address.
   - `!openserver` Starts the server.
   - `!closeserver` Stops the server (Uses the built in /stop of the Minecraft server, so there will be no corruption of the files).
  
